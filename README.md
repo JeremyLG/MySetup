@@ -1,3 +1,7 @@
-# Technical tips for data science
+# Technical tips for data science (WORK IN PROGRESS)
 
-[python](python.md)
+## [Python tips](python.md)
+
+## [Git tips](git.md)
+
+## [Spark on Windows tips](spark_windows.md)
