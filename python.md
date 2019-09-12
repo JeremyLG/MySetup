@@ -20,6 +20,14 @@ python3 -m ipykernel install --user --name venv
 - **atom-mypy** : Allows *type checking* via the *typing* package in Python **3.6**
 - **python-docstring** : Adds a docstring with the shortcut *ctrl+alt+d*
 
+#### Other useful packages
+
+- **better-git-blame** : Allows you to check history on files with *ctrl* + *b* shortcut
+- **highlight-selected** : Highlights in files all occurences of the word that is selected
+- **platformio-ide-terminal** : Add a super terminal in the atom IDE
+- **copy-filename** : Allows you to right click a file and copy its filename easily (useful with DBT)
+- **git-control** : Excellent UI Git interface to fetch remote branches and do many more things
+
 ### More details on some packages
 
 #### ide-python
